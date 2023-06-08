@@ -20,7 +20,7 @@ const Navbar = () => {
     <div className="navbar">
       <div className="left">
         <Link to="/" style={{ textDecoration: "none" }}>
-          <span>lamasocial</span>
+          <span>CULINERIA</span>
         </Link>
         <HomeOutlinedIcon />
         {darkMode ? (
@@ -31,7 +31,7 @@ const Navbar = () => {
         <GridViewOutlinedIcon />
         <div className="search">
           <SearchOutlinedIcon />
-          <input type="text" placeholder="Search..." />
+          <input type="text" placeholder="Cari resep yang kamu suka" />
         </div>
       </div>
       <div className="right">
