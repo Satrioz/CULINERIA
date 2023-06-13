@@ -38,18 +38,18 @@ const LeftBar = () => {
             <img src={Groups} alt="" />
             <span>Groups</span>
           </div>
-          <div className="item">
+          {/* <div className="item">
             <img src={Market} alt="" />
             <span>Marketplace</span>
-          </div>
-          <div className="item">
+          </div> */}
+          {/* <div className="item">
             <img src={Watch} alt="" />
             <span>Watch</span>
           </div>
           <div className="item">
             <img src={Memories} alt="" />
             <span>Memories</span>
-          </div>
+          </div> */}
         </div>
         <hr />
         <div className="menu">
